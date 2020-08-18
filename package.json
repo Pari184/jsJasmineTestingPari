@@ -1,0 +1,15 @@
+{
+    "name": "jasmine-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "jasmine": "^3.6.1"
+    },
+    "scripts": {
+        "test": "jasmine"
+    },
+    "author": "",
+    "license": "ISC"
+}
